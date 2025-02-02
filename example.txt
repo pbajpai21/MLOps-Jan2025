@@ -1,1 +1,1 @@
-This is a modified example file.
+Replacing whole file contents.
